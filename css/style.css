@@ -319,7 +319,10 @@ a {
 
 /* ========== ABOUT ========== */
 .about {
-  background: var(--bg-warm);
+  background-color: var(--bg-warm);
+  background-image: url('../images/bg-pattern.png');
+  background-size: 500px auto;
+  background-repeat: repeat;
 }
 
 .about-layout {
@@ -454,7 +457,10 @@ a {
 
 /* ========== PROCESS ========== */
 .process {
-  background: var(--bg-warm);
+  background-color: var(--bg-warm);
+  background-image: url('../images/bg-pattern.png');
+  background-size: 500px auto;
+  background-repeat: repeat;
 }
 
 .process-steps {
